@@ -1,0 +1,21 @@
+{
+    "name": "globetrotterxxl/php-perfdataparser",
+    "description": "perfdata parser for php",
+    "keywords": ["nagios", "naemon","perfdata" ],
+    "license": "MIT",
+    "stability": "stable",
+    "type": "library",
+    "require": {
+        "php": "^7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "GlobetrotterXXL\\Perfdata\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "GlobetrotterXXL\\Perfdata\\": "src"
+        }
+    }
+}
