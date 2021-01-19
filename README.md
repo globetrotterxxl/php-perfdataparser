@@ -12,3 +12,4 @@ $ composer require globetrotterxxl/php-perfdataparser
 
 This will install PerfdataParser and all required dependencies. PerfdataParser requires PHP 7.1 or newer.
 
+
